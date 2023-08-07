@@ -146,6 +146,7 @@
   .client_section .box .detail-box {
     background-color: #ffffff;
     padding: 75px 15px 15px 15px;
+    height: 350px;
   }
 
 }
