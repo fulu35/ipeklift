@@ -820,6 +820,7 @@ a:focus {
 .client_section .box .img-box img {
   width: 100%;
   height: 100%;
+  object-fit: cover;
 }
 
 .client_section .box .client_info {
