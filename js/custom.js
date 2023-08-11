@@ -25,14 +25,17 @@ var owl = $('.project_carousel').owlCarousel({
         0: {
             center: false,
             items: 1,
-            margin: 0
+            margin: 0,
+            loop:true
         },
         769: {
             items: 2,
+            loop:true
         },
         992: {
             center: true,
-            items: 3
+            items: 3,
+            loop:true
         }
     }
 })
