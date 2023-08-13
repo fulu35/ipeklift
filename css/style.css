@@ -1262,4 +1262,9 @@ a:focus {
 	margin-top:16px;
   color:#FFF;
 }
+
+.twiter-x:hover {
+
+    fill: #252525
+}
 /*# sourceMappingURL=style.css.map */
